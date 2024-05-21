@@ -36,10 +36,3 @@ StockSage is an advanced stock market prediction system that utilizes Recurrent 
 ## Acknowledgements
 - **Google Cloud Platform**: For providing the infrastructure to deploy the application.
 - **Open Source Libraries**: Thanks to the developers of R, Python, Flask, and other libraries used in this project.
-
-## Contact
-For any inquiries or feedback, please contact Aditi Soni at [your-email@example.com](mailto:your-email@example.com).
-
----
-
-**StockSage: Revolutionizing Financial Forecasting with AI**
